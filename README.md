@@ -2,7 +2,7 @@
 EFI Opencore 0.8.8 files for hackintoshing Dell Inspiron 15-3567 i7-7500U [macOS Ventura ONLY]
 
 Specs :
-- intel core i7 7500-U 
+- intel core i7 7500-U _[Kaby Lake]_
 - intel 802.11n 3165 Wifi / Bluetooth card 
 - intel HD 620 2GB Graphics Card .
 - ~~AMD Radeon M430 2GB Graphics Card~~ (Unsupported)
